@@ -4,6 +4,8 @@ on:
   schedule:
     # 19:30 UTC is 4:30 JST
     - cron: '30 19 * * *'
+permissions:
+  contents: write
 jobs:
   starlog:
     name: update starlog
