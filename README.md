@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [MoonBit](#moonbit)
 - [Others](#others)
 - [PHP](#php)
 - [Processing](#processing)
@@ -32,6 +33,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -89,6 +91,13 @@
 
 ## Go 
 
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [0daryo/github-watch](https://github.com/0daryo/github-watch) - 
+- [mrymam/ghv](https://github.com/mrymam/ghv) - GitHub Viewer
+- [mizchi/pkfire](https://github.com/mizchi/pkfire) - Typed task runner with Bazel-style incremental caching, configured in Pkl.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
@@ -129,11 +138,13 @@
 
 ## HTML 
 
+- [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
 - [urabexon/ThreeSynthBloom](https://github.com/urabexon/ThreeSynthBloom) - 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 
 ## JavaScript 
 
+- [hoyangtsai/react-forget](https://github.com/hoyangtsai/react-forget) - React without memo
 - [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [takahirox/toho-like-js](https://github.com/takahirox/toho-like-js) - Touhou style danmaku shooter game which runs on your chrome.
@@ -165,6 +176,10 @@
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
+## MoonBit 
+
+- [mizchi/actrun](https://github.com/mizchi/actrun) - GitHub Actions compatible local runner
+
 ## Others 
 
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
@@ -183,6 +198,7 @@
 
 ## Python 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [nelokusa/UiNebulon](https://github.com/nelokusa/UiNebulon) - Cloud-Agnostic UiNebulon Framework implementing Intelligent API-First Design with enterprise-grade Multi-Cloud Support capabilities
 - [ComfyUI-Workflow/awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) - A collection of awesome custom nodes for ComfyUI
 - [urabexon/AWS-MCP-Servers](https://github.com/urabexon/AWS-MCP-Servers) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
@@ -253,6 +269,15 @@
 
 ## TypeScript 
 
+- [mohebifar/react-unforget](https://github.com/mohebifar/react-unforget) - Use React Compiler instead ⚠️ A compiler for automatic optimization of React apps
+- [remorses/errore](https://github.com/remorses/errore) - Errors as values for TypeScript. Fully type safe error handling.
+- [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
+- [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
+- [sanity-io/use-effect-event](https://github.com/sanity-io/use-effect-event) - Ponyfill of the experimental `React.useEffectEvent` hook
+- [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [haochezh/ViewVortix](https://github.com/haochezh/ViewVortix) - Self-synchronizing cloud-agnostic data vortex for unified, multi-cloud, real-time intelligence on the OmniPlatform.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [urabexon/Next.js_QuickTemplate](https://github.com/urabexon/Next.js_QuickTemplate) - Next.js + Supabase + Google One Tap Authentication   A minimal, fast-start template for modern web apps.
@@ -309,6 +334,10 @@
 ## Vue 
 
 - [Elliop/42-Matcha](https://github.com/Elliop/42-Matcha) - This is the second web project of school 42, it’s a dating WebSite where the user can create his profile, search other users, like them and begin a conversation with a chat if the person liked him bac
+
+## Zig 
+
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 
 
 ## License
