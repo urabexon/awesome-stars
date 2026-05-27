@@ -274,6 +274,7 @@
 
 ## TypeScript 
 
+- [yug1224/kusa](https://github.com/yug1224/kusa) - GitHub の草をただ生やし続けるためのリポジトリ
 - [mohebifar/react-unforget](https://github.com/mohebifar/react-unforget) - Use React Compiler instead ⚠️ A compiler for automatic optimization of React apps
 - [remorses/errore](https://github.com/remorses/errore) - Errors as values for TypeScript. Fully type safe error handling.
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
