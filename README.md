@@ -92,6 +92,9 @@
 
 ## Go 
 
+- [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
+- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
@@ -139,12 +142,15 @@
 
 ## HTML 
 
+- [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 - [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
 - [urabexon/ThreeSynthBloom](https://github.com/urabexon/ThreeSynthBloom) - 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 
 ## JavaScript 
 
+- [zhuker/lamejs](https://github.com/zhuker/lamejs) - mp3 encoder in javascript
+- [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [hoyangtsai/react-forget](https://github.com/hoyangtsai/react-forget) - React without memo
 - [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
@@ -168,6 +174,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [AndreAugusto11/XChainDataGen](https://github.com/AndreAugusto11/XChainDataGen) - A cross-chain data generator. Contains a data extractor and a cross-chain transaction generator for multiple cross-chain protocols/bridges
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
@@ -187,6 +194,7 @@
 
 ## Others 
 
+- [JPCERTCC/rust-binary-analysis-research-ja](https://github.com/JPCERTCC/rust-binary-analysis-research-ja) - Rustで作成されたバイナリのリバースエンジニアリング調査レポート
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
@@ -203,6 +211,9 @@
 
 ## Python 
 
+- [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
+- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [nelokusa/UiNebulon](https://github.com/nelokusa/UiNebulon) - Cloud-Agnostic UiNebulon Framework implementing Intelligent API-First Design with enterprise-grade Multi-Cloud Support capabilities
 - [ComfyUI-Workflow/awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) - A collection of awesome custom nodes for ComfyUI
@@ -238,6 +249,7 @@
 
 ## Ruby 
 
+- [type-ruby/t-ruby](https://github.com/type-ruby/t-ruby) - T-Ruby, TypeScript-style types for Ruby language
 - [mame/self-description-set](https://github.com/mame/self-description-set) - A formula that become itself when plotted
 - [uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
 
@@ -250,6 +262,8 @@
 
 ## Scala 
 
+- [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
+- [Iltotore/iron](https://github.com/Iltotore/iron) - Strong type constraints for Scala
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 
 ## Shell 
@@ -274,6 +288,11 @@
 
 ## TypeScript 
 
+- [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
+- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - Lightweight Temporal polyfill
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [yug1224/kusa](https://github.com/yug1224/kusa) - GitHub の草をただ生やし続けるためのリポジトリ
 - [mohebifar/react-unforget](https://github.com/mohebifar/react-unforget) - Use React Compiler instead ⚠️ A compiler for automatic optimization of React apps
 - [remorses/errore](https://github.com/remorses/errore) - Errors as values for TypeScript. Fully type safe error handling.
