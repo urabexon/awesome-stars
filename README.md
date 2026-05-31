@@ -13,14 +13,18 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [MoonBit](#moonbit)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Processing](#processing)
@@ -55,10 +59,12 @@
 
 ## C# # 
 
+- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 
 ## C++ 
 
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [shoko-soeno/42_webserver](https://github.com/shoko-soeno/42_webserver) - 
 - [kurrrru/toolbox](https://github.com/kurrrru/toolbox) - my library
 - [kurrrru/Date](https://github.com/kurrrru/Date) - 
@@ -90,8 +96,22 @@
 
 - [kiosion/toru](https://github.com/kiosion/toru) - API for generating customizable image embeds of last.fm activity
 
+## Emacs Lisp 
+
+- [kiyoka/Sumibi](https://github.com/kiyoka/Sumibi) - Japanese/Chinese input method powered by ChatGPT API
+
+## Gherkin 
+
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
+
 ## Go 
 
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
+- [ibmdb/go_ibm_db](https://github.com/ibmdb/go_ibm_db) - GoLang Driver for Db2 family of database servers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+- [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
@@ -142,6 +162,7 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 - [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
 - [urabexon/ThreeSynthBloom](https://github.com/urabexon/ThreeSynthBloom) - 
@@ -149,6 +170,9 @@
 
 ## JavaScript 
 
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
+- [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
+- [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [zhuker/lamejs](https://github.com/zhuker/lamejs) - mp3 encoder in javascript
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [hoyangtsai/react-forget](https://github.com/hoyangtsai/react-forget) - React without memo
@@ -180,6 +204,10 @@
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [mercari-build/mercari-build-training](https://github.com/mercari-build/mercari-build-training) - 
 
+## Kotlin 
+
+- [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada) - 
+
 ## MDX 
 
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -192,8 +220,13 @@
 
 - [mizchi/actrun](https://github.com/mizchi/actrun) - GitHub Actions compatible local runner
 
+## Objective-C 
+
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
+
 ## Others 
 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [JPCERTCC/rust-binary-analysis-research-ja](https://github.com/JPCERTCC/rust-binary-analysis-research-ja) - Rustで作成されたバイナリのリバースエンジニアリング調査レポート
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -249,12 +282,17 @@
 
 ## Ruby 
 
+- [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [type-ruby/t-ruby](https://github.com/type-ruby/t-ruby) - T-Ruby, TypeScript-style types for Ruby language
 - [mame/self-description-set](https://github.com/mame/self-description-set) - A formula that become itself when plotted
 - [uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo) - SKK 絵文字辞書
 
 ## Rust 
 
+- [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage project to develop high-performance tools for PHP developers.
+- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
+- [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [KentBeck/BPlusTree3](https://github.com/KentBeck/BPlusTree3) - A plug-compatible replacement of Rust's BTree collection
@@ -268,6 +306,7 @@
 
 ## Shell 
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ngtkana/AtCoderClans](https://github.com/ngtkana/AtCoderClans) - 【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 - [maxisimo/42-Darkly](https://github.com/maxisimo/42-Darkly) - 🐱‍👤 Introduction project to web security - OWASP
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
@@ -288,6 +327,15 @@
 
 ## TypeScript 
 
+- [BunnyWay/es-wasm-application](https://github.com/BunnyWay/es-wasm-application) - WASM Application template for Bunny Scripts
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [Infinite-Chess/infinitechess.org](https://github.com/Infinite-Chess/infinitechess.org) - Infinite Chess Web Server
+- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
+- [mizchi/chaosbringer](https://github.com/mizchi/chaosbringer) - Chaos engineering for Playwright tests
+- [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
+- [uhyo/rsc-without-nextjs](https://github.com/uhyo/rsc-without-nextjs) - Sample repository for a Zenn article
 - [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
 - [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - Lightweight Temporal polyfill
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
