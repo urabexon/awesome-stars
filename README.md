@@ -43,7 +43,7 @@
 
 ## Assembly 
 
-- [zk-tokyo/core-program](https://github.com/zk-tokyo/core-program) - 2025 core program
+- [zk-tokyo/core-program-2025](https://github.com/zk-tokyo/core-program-2025) - 2025 core program
 
 ## C 
 
