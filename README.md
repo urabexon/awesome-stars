@@ -28,6 +28,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [Processing](#processing)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -39,6 +40,8 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
+- [XSLT](#xslt)
 - [Zig](#zig)
 
 ## Assembly 
@@ -66,6 +69,7 @@
 
 ## C++ 
 
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [shoko-soeno/42_webserver](https://github.com/shoko-soeno/42_webserver) - 
@@ -110,6 +114,8 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [babarot/gh-infra](https://github.com/babarot/gh-infra) - Declarative GitHub infrastructure management via YAML
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
@@ -170,6 +176,7 @@
 
 ## HTML 
 
+- [kaz-ogiwara/covid19](https://github.com/kaz-ogiwara/covid19) - 新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 - [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
@@ -214,7 +221,7 @@
 
 ## Kotlin 
 
-- [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada) - 
+- [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share implementation without GMS dependency
 
 ## MDX 
 
@@ -252,12 +259,17 @@
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 
+## Perl 
+
+- [bradfitz/tailscale-perl](https://github.com/bradfitz/tailscale-perl) - Perl bindings for Tailscale-rs
+
 ## Processing 
 
 - [Integrated-gw-2024/VisualPaintTool](https://github.com/Integrated-gw-2024/VisualPaintTool) - ビジュアル案に沿ったグラフィックをデザインすることができるツール
 
 ## Python 
 
+- [danishprakash/githubfs](https://github.com/danishprakash/githubfs) - :octocat: Read-only virtual file-system for Github using FUSE.
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - Implementation of Latent Diffusion Super-Resolution model for RGB-NIR Sen2 imagery.
 - [hysmichael/srt_fcpxml_converter](https://github.com/hysmichael/srt_fcpxml_converter) - Convert between .srt and .fcpxml files for subtitles creation
@@ -309,6 +321,14 @@
 
 ## Rust 
 
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+- [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
+- [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage project to develop high-performance tools for PHP developers.
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
@@ -348,6 +368,12 @@
 
 ## TypeScript 
 
+- [ojkelly/yarn.build](https://github.com/ojkelly/yarn.build) - Build 🛠 and Bundle 📦 your local workspaces. Like Bazel, Buck, Pants and Please but for Yarn Berry. Build any language, mix javascript, typescript, golang and more in one polyglot repo. Ship your bundl
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+- [edrickleong/obsidian-calendar-bases](https://github.com/edrickleong/obsidian-calendar-bases) - 
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
 - [ssssota/openapi-ts-hono](https://github.com/ssssota/openapi-ts-hono) - Type-check a Hono app against an OpenAPI paths type generated by openapi-typescript
 - [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client
@@ -355,7 +381,7 @@
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [BunnyWay/es-wasm-application](https://github.com/BunnyWay/es-wasm-application) - WASM Application template for Bunny Scripts
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -435,7 +461,16 @@
 
 ## Vue 
 
+- [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [Elliop/42-Matcha](https://github.com/Elliop/42-Matcha) - This is the second web project of school 42, it’s a dating WebSite where the user can create his profile, search other users, like them and begin a conversation with a chat if the person liked him bac
+
+## WebAssembly 
+
+- [WebAssembly/multi-memory](https://github.com/WebAssembly/multi-memory) - Multiple per-module memories for Wasm
+
+## XSLT 
+
+- [cabo/kramdown-rfc](https://github.com/cabo/kramdown-rfc) - An XML2RFC (RFC799x) backend for Thomas Leitner's kramdown markdown parser
 
 ## Zig 
 
