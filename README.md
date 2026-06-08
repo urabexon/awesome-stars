@@ -333,7 +333,7 @@
 - [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage project to develop high-performance tools for PHP developers.
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [KentBeck/BPlusTree3](https://github.com/KentBeck/BPlusTree3) - A plug-compatible replacement of Rust's BTree collection
@@ -412,7 +412,7 @@
 - [urabexon/Next.js_QuickTemplate](https://github.com/urabexon/Next.js_QuickTemplate) - Next.js + Supabase + Google One Tap Authentication   A minimal, fast-start template for modern web apps.
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
