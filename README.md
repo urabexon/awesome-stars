@@ -135,7 +135,6 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [0daryo/github-watch](https://github.com/0daryo/github-watch) - 
 - [mrymam/ghv](https://github.com/mrymam/ghv) - GitHub Viewer
-- [mizchi/pkfire](https://github.com/mizchi/pkfire) - Typed task runner with Bazel-style incremental caching, configured in Pkl.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
@@ -239,6 +238,7 @@
 ## MoonBit 
 
 - [mizchi/actrun](https://github.com/mizchi/actrun) - GitHub Actions compatible local runner
+- [mizchi/pkfire](https://github.com/mizchi/pkfire) - Typed task runner with Bazel-style incremental caching, configured in Pkl.
 
 ## Nix 
 
