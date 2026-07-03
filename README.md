@@ -394,7 +394,7 @@
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [Infinite-Chess/infinitechess.org](https://github.com/Infinite-Chess/infinitechess.org) - Infinite Chess Web Server
-- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [mizchi/chaosbringer](https://github.com/mizchi/chaosbringer) - Chaos engineering for Playwright tests
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
