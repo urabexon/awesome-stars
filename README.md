@@ -275,7 +275,6 @@
 
 ## Python 
 
-- [devycyan/CryptoWay](https://github.com/devycyan/CryptoWay) - Decentralized Secure Multi-Party Computation enables Real-Time Data Encryption in Scalable Intelligent Distributed Ledger Ecosystem Suite.
 - [danishprakash/githubfs](https://github.com/danishprakash/githubfs) - :octocat: Read-only virtual file-system for Github using FUSE.
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - Implementation of Latent Diffusion Super-Resolution model for RGB-NIR Sen2 imagery.
@@ -414,7 +413,6 @@
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 - [sanity-io/use-effect-event](https://github.com/sanity-io/use-effect-event) - Ponyfill of the experimental `React.useEffectEvent` hook
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
-- [haochezh/ViewVortix](https://github.com/haochezh/ViewVortix) - Self-synchronizing cloud-agnostic data vortex for unified, multi-cloud, real-time intelligence on the OmniPlatform.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [urabexon/Next.js_QuickTemplate](https://github.com/urabexon/Next.js_QuickTemplate) - Next.js + Supabase + Google One Tap Authentication   A minimal, fast-start template for modern web apps.
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
