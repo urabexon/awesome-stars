@@ -340,7 +340,7 @@
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [KentBeck/BPlusTree3](https://github.com/KentBeck/BPlusTree3) - A plug-compatible replacement of Rust's BTree collection
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
