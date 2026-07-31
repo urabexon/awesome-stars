@@ -22,7 +22,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [MoonBit](#moonbit)
 - [Nix](#nix)
@@ -227,10 +226,6 @@
 ## Kotlin 
 
 - [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share implementation without GMS dependency
-
-## MDX 
-
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ## Makefile 
 
@@ -446,6 +441,7 @@
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
 - [LumaKernel/zen-binran-serach](https://github.com/LumaKernel/zen-binran-serach) - ZEN大学の学生便覧を全文検索する非公式ツール
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit) - 
