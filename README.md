@@ -413,7 +413,7 @@
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
-- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
