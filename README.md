@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [kurrrru/DT-Patricia](https://github.com/kurrrru/DT-Patricia) - An exact sequence-to-dictionary alignment library implemented on a Patricia Tree (Radix Tree, compressed trie) using O(nd) diagonal transition principles.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
