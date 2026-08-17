@@ -90,7 +90,6 @@
 
 ## CSS 
 
-- [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 - [SakanaAI/TinySwallow-ChatUI](https://github.com/SakanaAI/TinySwallow-ChatUI) - Browser-based chat UI for TinySwallow-1.5B that runs without API calls.
 
 ## Dart 
@@ -463,6 +462,7 @@
 ## Vue 
 
 - [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 - [Elliop/42-Matcha](https://github.com/Elliop/42-Matcha) - This is the second web project of school 42, it’s a dating WebSite where the user can create his profile, search other users, like them and begin a conversation with a chat if the person liked him bac
 
 ## WebAssembly 
