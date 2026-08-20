@@ -57,7 +57,6 @@
 - [fbkeskin/42-minitalk](https://github.com/fbkeskin/42-minitalk) - The purpose of this project is to code a small data exchange program using UNIX signals.
 - [kztakada/42-minishell](https://github.com/kztakada/42-minishell) - 
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [urabexon/Libasm](https://github.com/urabexon/Libasm) - Archived libasm project from the 42 curriculum. A low-level programming exercise implementing standard C functions in x86-64 assembly.
 - [yuzu-juice/minishell](https://github.com/yuzu-juice/minishell) - 
 - [zelhajou/ft_core_libft](https://github.com/zelhajou/ft_core_libft) - A library of useful C functions
 - [yumatsui00/Cub3D](https://github.com/yumatsui00/Cub3D) - 
@@ -80,7 +79,6 @@
 - [kurrrru/bigint](https://github.com/kurrrru/bigint) - 多倍長整数を実装する。簡易vectorを使う
 - [kurrrru/cpp-module-09](https://github.com/kurrrru/cpp-module-09) - 
 - [google/longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
-- [urabexon/openFrameworks_TraceSphere](https://github.com/urabexon/openFrameworks_TraceSphere) - 
 - [oonisidesu/webserv](https://github.com/oonisidesu/webserv) - HTTP/1.1 compliant web server built from scratch in C++98. Features non-blocking I/O, CGI support, and handles multiple clients concurrently without threading.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [GawinGowin/ft_irc](https://github.com/GawinGowin/ft_irc) - Internet Relay Chat
@@ -154,7 +152,6 @@
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
-- [urabexon/go_web-scraper](https://github.com/urabexon/go_web-scraper) - 
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [CyberAgentHack/42tokyo-road-to-dojo-go](https://github.com/CyberAgentHack/42tokyo-road-to-dojo-go) - 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -179,7 +176,6 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 - [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
-- [urabexon/ThreeSynthBloom](https://github.com/urabexon/ThreeSynthBloom) - 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 
 ## Java 
@@ -204,10 +200,6 @@
 - [ccu-an-b/Hypertube](https://github.com/ccu-an-b/Hypertube) - Streaming Website
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LinusU/react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of `getRandomValues` for React Native
-- [urabexon/p5js_Sol-LeWittStyleArtTool](https://github.com/urabexon/p5js_Sol-LeWittStyleArtTool) - The idea becomes a machine that makes the art.
-- [urabexon/p5js_vj-expression-art](https://github.com/urabexon/p5js_vj-expression-art) - 
-- [urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart) - 
-- [urabexon/p5js_GenerativeArtCollection-Urabexon](https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon) - 
 - [tetunori/ios-pseude-fullscreen](https://github.com/tetunori/ios-pseude-fullscreen) - Pseude fullscreen function in iOS/iPad OS web browser
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -225,6 +217,7 @@
 
 ## Kotlin 
 
+- [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) - Visualize your year in travel using your Google Location History (Timeline) data
 - [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share implementation without GMS dependency
 
 ## Makefile 
@@ -283,14 +276,12 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [nelokusa/UiNebulon](https://github.com/nelokusa/UiNebulon) - Cloud-Agnostic UiNebulon Framework implementing Intelligent API-First Design with enterprise-grade Multi-Cloud Support capabilities
 - [ComfyUI-Workflow/awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) - A collection of awesome custom nodes for ComfyUI
-- [urabexon/AWS-MCP-Servers](https://github.com/urabexon/AWS-MCP-Servers) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - 粋 (Sui) - A programming language optimized for LLM code generation
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-- [urabexon/SlackGPTBot](https://github.com/urabexon/SlackGPTBot) - A Slack bot that uses the ChatGPT API directly (Japanese only)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -409,7 +400,6 @@
 - [sanity-io/use-effect-event](https://github.com/sanity-io/use-effect-event) - Ponyfill of the experimental `React.useEffectEvent` hook
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [urabexon/Next.js_QuickTemplate](https://github.com/urabexon/Next.js_QuickTemplate) - Next.js + Supabase + Google One Tap Authentication   A minimal, fast-start template for modern web apps.
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
@@ -417,7 +407,6 @@
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [urabexon/NoMoveFlags](https://github.com/urabexon/NoMoveFlags) - GeoGuessr No-Move / 国スト用国旗トレーニングゲーム
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [Engineer-Guild-Hackathon/team-8-app](https://github.com/Engineer-Guild-Hackathon/team-8-app) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -439,7 +428,6 @@
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
-- [LumaKernel/zen-binran-serach](https://github.com/LumaKernel/zen-binran-serach) - ZEN大学の学生便覧を全文検索する非公式ツール
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual webpages, instant selection translation, and flexible translation services. 一款开源浏览器翻译插件，提供网页双语阅读、即时划词翻译和灵活的翻译服务配置。
