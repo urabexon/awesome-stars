@@ -79,6 +79,7 @@
 - [kurrrru/bigint](https://github.com/kurrrru/bigint) - 多倍長整数を実装する。簡易vectorを使う
 - [kurrrru/cpp-module-09](https://github.com/kurrrru/cpp-module-09) - 
 - [google/longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [oonisidesu/webserv](https://github.com/oonisidesu/webserv) - HTTP/1.1 compliant web server built from scratch in C++98. Features non-blocking I/O, CGI support, and handles multiple clients concurrently without threading.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [GawinGowin/ft_irc](https://github.com/GawinGowin/ft_irc) - Internet Relay Chat
@@ -198,7 +199,6 @@
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [ccu-an-b/Hypertube](https://github.com/ccu-an-b/Hypertube) - Streaming Website
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LinusU/react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of `getRandomValues` for React Native
 - [tetunori/ios-pseude-fullscreen](https://github.com/tetunori/ios-pseude-fullscreen) - Pseude fullscreen function in iOS/iPad OS web browser
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
