@@ -70,7 +70,7 @@
 
 - [kurrrru/DT-Patricia](https://github.com/kurrrru/DT-Patricia) - An exact sequence-to-dictionary alignment library implemented on a Patricia Tree (Radix Tree, compressed trie) using O(nd) diagonal transition principles.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
-- [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
+- [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ transpiler. Read the introduction below to learn about the restrictions.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [shoko-soeno/42_webserver](https://github.com/shoko-soeno/42_webserver) - 
@@ -301,7 +301,7 @@
 - [yumatsui00/transcendence](https://github.com/yumatsui00/transcendence) - 
 - [kaaaaakun/ft_transcendence](https://github.com/kaaaaakun/ft_transcendence) - 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [ant-research/AniDoc](https://github.com/ant-research/AniDoc) - [CVPR'25] Official Implementations for Paper - AniDoc: Animation Creation Made Easier
+- [robbyant-research/AniDoc](https://github.com/robbyant-research/AniDoc) - [CVPR'25] Official Implementations for Paper - AniDoc: Animation Creation Made Easier
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 ## Ruby 
