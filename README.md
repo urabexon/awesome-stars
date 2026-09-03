@@ -395,7 +395,7 @@
 - [remorses/errore](https://github.com/remorses/errore) - Errors as values for TypeScript. Fully type safe error handling.
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 - [sanity-io/use-effect-event](https://github.com/sanity-io/use-effect-event) - Ponyfill of the experimental `React.useEffectEvent` hook
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
