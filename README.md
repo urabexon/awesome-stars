@@ -192,7 +192,6 @@
 - [zhuker/lamejs](https://github.com/zhuker/lamejs) - mp3 encoder in javascript
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [hoyangtsai/react-forget](https://github.com/hoyangtsai/react-forget) - React without memo
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [takahirox/toho-like-js](https://github.com/takahirox/toho-like-js) - Touhou style danmaku shooter game which runs on your chrome.
@@ -396,6 +395,7 @@
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 - [sanity-io/use-effect-event](https://github.com/sanity-io/use-effect-event) - Ponyfill of the experimental `React.useEffectEvent` hook
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
