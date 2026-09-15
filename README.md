@@ -18,7 +18,6 @@
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
-- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -78,7 +77,7 @@
 - [kurrrru/Date](https://github.com/kurrrru/Date) - 
 - [kurrrru/bigint](https://github.com/kurrrru/bigint) - 多倍長整数を実装する。簡易vectorを使う
 - [kurrrru/cpp-module-09](https://github.com/kurrrru/cpp-module-09) - 
-- [google/longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
+- [longfellow-zk/longfellow-zk](https://github.com/longfellow-zk/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [oonisidesu/webserv](https://github.com/oonisidesu/webserv) - HTTP/1.1 compliant web server built from scratch in C++98. Features non-blocking I/O, CGI support, and handles multiple clients concurrently without threading.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
@@ -179,10 +178,6 @@
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 - [GoogleChromeLabs/template-for-polyfill](https://github.com/GoogleChromeLabs/template-for-polyfill) - 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-## Java 
-
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 ## JavaScript 
 
@@ -422,6 +417,7 @@
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [aws-samples/remote-swe-agents](https://github.com/aws-samples/remote-swe-agents) - Autonomous SWE agent working in the cloud!
 - [KengoTODA/actions-setup-docker-compose](https://github.com/KengoTODA/actions-setup-docker-compose) - the GitHub Action setting up docker-compose command
 - [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
