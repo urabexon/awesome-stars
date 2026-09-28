@@ -157,7 +157,7 @@
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [CyberAgentHack/42tokyo-road-to-dojo-go](https://github.com/CyberAgentHack/42tokyo-road-to-dojo-go) - 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [team-lab/go-httpstat](https://github.com/team-lab/go-httpstat) - Tracing golang HTTP request latency
 - [hamao0820/sortvis](https://github.com/hamao0820/sortvis) - 
