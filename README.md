@@ -204,6 +204,7 @@
 
 ## Jupyter Notebook 
 
+- [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - Implementation of Latent Diffusion Super-Resolution model for RGB-NIR Sen2 imagery.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [AndreAugusto11/XChainDataGen](https://github.com/AndreAugusto11/XChainDataGen) - A cross-chain data generator. Contains a data extractor and a cross-chain transaction generator for multiple cross-chain protocols/bridges
@@ -267,7 +268,6 @@
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [danishprakash/githubfs](https://github.com/danishprakash/githubfs) - :octocat: Read-only virtual file-system for Github using FUSE.
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
-- [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - Implementation of Latent Diffusion Super-Resolution model for RGB-NIR Sen2 imagery.
 - [hysmichael/srt_fcpxml_converter](https://github.com/hysmichael/srt_fcpxml_converter) - Convert between .srt and .fcpxml files for subtitles creation
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
