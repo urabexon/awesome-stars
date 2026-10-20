@@ -71,7 +71,7 @@
 - [kurrrru/DT-Patricia](https://github.com/kurrrru/DT-Patricia) - An exact one-to-many alignment library implemented on a Patricia Tree (Radix Tree, compressed trie) using O(nd) diagonal transition principles.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ transpiler. Read the introduction below to learn about the restrictions.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [shoko-soeno/42_webserver](https://github.com/shoko-soeno/42_webserver) - 
 - [kurrrru/toolbox](https://github.com/kurrrru/toolbox) - my library
@@ -192,7 +192,6 @@
 - [takahirox/toho-like-js](https://github.com/takahirox/toho-like-js) - Touhou style danmaku shooter game which runs on your chrome.
 - [greggman/html5bytebeat](https://github.com/greggman/html5bytebeat) - Bytebeats in HTML5
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [ccu-an-b/Hypertube](https://github.com/ccu-an-b/Hypertube) - Streaming Website
 - [LinusU/react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of `getRandomValues` for React Native
 - [tetunori/ios-pseude-fullscreen](https://github.com/tetunori/ios-pseude-fullscreen) - Pseude fullscreen function in iOS/iPad OS web browser
@@ -416,6 +415,7 @@
 - [ayuko3939/ft_transcendence](https://github.com/ayuko3939/ft_transcendence) - 
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
