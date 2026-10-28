@@ -192,7 +192,6 @@
 - [greggman/html5bytebeat](https://github.com/greggman/html5bytebeat) - Bytebeats in HTML5
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [ccu-an-b/Hypertube](https://github.com/ccu-an-b/Hypertube) - Streaming Website
-- [LinusU/react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of `getRandomValues` for React Native
 - [tetunori/ios-pseude-fullscreen](https://github.com/tetunori/ios-pseude-fullscreen) - Pseude fullscreen function in iOS/iPad OS web browser
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -328,7 +327,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [KentBeck/BPlusTree3](https://github.com/KentBeck/BPlusTree3) - A plug-compatible replacement of Rust's BTree collection
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 
 ## Scala 
 
@@ -355,6 +354,7 @@
 ## Swift 
 
 - [apple/pir-service-example](https://github.com/apple/pir-service-example) - Example PIR service & documentation for Live Caller ID Lookup & NEURLFilter
+- [LinusU/react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of `getRandomValues` for React Native
 - [jessica-huynh/Knot](https://github.com/jessica-huynh/Knot) - An iOS app that lets you keep track of your bank accounts from multiple financial institutions.
 
 ## TypeScript 
@@ -414,7 +414,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [ayuko3939/ft_transcendence](https://github.com/ayuko3939/ft_transcendence) - 
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
