@@ -77,7 +77,7 @@
 - [kurrrru/toolbox](https://github.com/kurrrru/toolbox) - my library
 - [kurrrru/Date](https://github.com/kurrrru/Date) - 
 - [kurrrru/bigint](https://github.com/kurrrru/bigint) - 多倍長整数を実装する。簡易vectorを使う
-- [kurrrru/cpp-module-09](https://github.com/kurrrru/cpp-module-09) - 
+- [kurrrru/cpp-module-09](https://github.com/kurrrru/cpp-module-09) - Pluggable calendar systems, exact BigInt/rational arithmetic, and a sort with near-minimal comparisons — all from scratch in C++98.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [oonisidesu/webserv](https://github.com/oonisidesu/webserv) - HTTP/1.1 compliant web server built from scratch in C++98. Features non-blocking I/O, CGI support, and handles multiple clients concurrently without threading.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
