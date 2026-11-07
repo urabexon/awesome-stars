@@ -328,6 +328,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [KentBeck/BPlusTree3](https://github.com/KentBeck/BPlusTree3) - A plug-compatible replacement of Rust's BTree collection
 - [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
 ## Scala 
 
@@ -446,7 +447,6 @@
 - [takram-design-engineering/three-geospatial](https://github.com/takram-design-engineering/three-geospatial) - Geospatial Rendering in Three.js
 - [slymnoyann/hey.xyz](https://github.com/slymnoyann/hey.xyz) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 
 ## Vue 
