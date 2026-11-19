@@ -63,7 +63,7 @@
 
 ## C# # 
 
-- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+- [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 
 ## C++ 
